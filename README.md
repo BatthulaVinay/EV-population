@@ -23,8 +23,6 @@ The project aims to provide insights into the distribution and adoption trends o
 ### EV Population.ipynb
 This is the main Jupyter Notebook containing the code and analysis. You can open it locally or view it in a cloud-based environment such as [Google Colab](https://colab.research.google.com/), [Kaggle Notebooks](https://www.kaggle.com/code), or [Binder](https://mybinder.org/).
 
-- **Download/View the Notebook**: [EV Population.ipynb](./EV%20Population.ipynb)
-
 ## Usage
 
 To run the notebook:
