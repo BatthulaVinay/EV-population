@@ -1,4 +1,3 @@
-# Ev-population
 # EV Population Analysis
 
 This repository contains a Jupyter Notebook focused on analyzing Electric Vehicle (EV) population data. The notebook includes data visualizations, exploratory analysis, and key insights.
