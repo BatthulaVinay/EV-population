@@ -5,10 +5,9 @@ This project analyzes the Electric Vehicle (EV) population dataset to identify t
 
 ## 📂 Dataset
 - The dataset contains information on the EV population, including make, model, battery capacity, location, and more.
-- Source: *(Mention dataset source if applicable)*
 
 ## 🔧 Installation
-To run this project, you need Python and Jupyter Notebook installed. Follow these steps:
+To run this project, you need to install Python and Jupyter Notebook. Follow these steps:
 
 1. Clone the repository:
    ```bash
@@ -43,7 +42,7 @@ This will generate visualizations and save a processed dataset (`processed_ev_po
 - Visualizations and Statistical Analysis
 
 ## 📈 Results
-- **EV Growth Trends**: Insights into how EV adoption is evolving.
+- **EV Growth Trends**: Insights into evolving EV adoption.
 - **Top Manufacturers**: Identifying major players in the EV market.
 - **Battery Performance**: Analyzing trends in battery capacity and range.
 - **Geographical Distribution**: Understanding where EV adoption is highest.
